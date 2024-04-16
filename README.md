@@ -32,7 +32,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/react-redux-todo-app.git
+git clonehttps : github.com/AmriteshRaj123/TodoList.git
 ```
 
 2. Navigate into the project directory:
