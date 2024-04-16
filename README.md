@@ -38,7 +38,7 @@ git clonehttps : github.com/AmriteshRaj123/TodoList.git
 2. Navigate into the project directory:
 
 ```
-cd react-redux-todo-app
+cd TodoList
 ```
 
 3. Install dependencies:
